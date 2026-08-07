@@ -1,11 +1,11 @@
 {
-  "version": "0.4.7",
-  "notes": "Официальный рабочий релиз v0.4.7!",
-  "pub_date": "2026-08-07T19:55:00Z",
+  "version": "0.4.8",
+  "notes": "Вышел новый релиз v0.4.8 с новым модулем LDM Converter и модальным окном обновлений!",
+  "pub_date": "2026-08-07T22:23:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOXYvOElHVjlqdi9JaXErK25QREJMaFltNEVGREZrcG0vcEwzY04wU1dWU2F4YVpXV29RMDZvWkl4djZPODh2b2tHWkUxQlMzVXJpN0pPOU5ndmc1aGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTIxNzQzCWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNC43X3g2NC1zZXR1cC5leGUKVXNRNzgxaWpOakJ1T1BKclZqcDF6VnQ2QVZRMEhTZkZMQm1rYm9VTk5JS3lJdHRydnZCN1J6N3c5L2RvdVZIdTJ3WXBDaG0zZm1wMGJVMHo5UlpNRGc9PQo=",
-      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight_Data_Hub_0.4.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOWdpYW4xdElsN0RVWTkzM1dCSVB4YXZuZnVWKy9URG10cHUxWHdMNmpEQjhWR1V1d0l0eURrcStkdFRIUmtQQ0wxNGZVRUZvVXErbkw1aXJSSWVVMHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTMwNTkwCWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNC44X3g2NC1zZXR1cC5leGUKaWNqL21mTm51UjlKbjZ5bzBVQmtpYXlCU2lTQU9vVHNIMHRLZnhRb2VZRVNNeFpwQXZMRWJwYStZY0NsWmdZaFMxcjJKWFlZUEtzWGp3ZTJTYnhrQ2c9PQo=",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight_Data_Hub_0.4.8_x64-setup.exe"
     }
   }
 }
