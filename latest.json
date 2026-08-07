@@ -1,11 +1,11 @@
 {
-  "version": "0.4.9",
-  "notes": "Вышел официальный релиз v0.4.9 с исправлением кодировки шрифта UTF-8, новым модулем LDM Converter и модальным окном обновлений!",
-  "pub_date": "2026-08-07T22:29:00Z",
+  "version": "0.5.0",
+  "notes": "Вышел официальный релиз v0.5.0 Pro! Полностью исправлены шрифты UTF-8, добавлен интерактивный клик по значку версии для проверки обновлений, запущен модуль LDM Converter!",
+  "pub_date": "2026-08-07T22:35:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOWpuUFZhazROWVNnWUNyQ2F0a1JSdFR5ZHg2RUIySWNoazd6RDdlL3RLSnl1Y1d4cFFZT1IyTi9qRi9JeTM3MTZpbm9henRLdGNIS2JOWFRXby80cWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTMwOTU0CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNC45X3g2NC1zZXR1cC5leGUKM3ZML09GNFZlSU9LZSt2Y243Qlg4ZGgvSFpFQVEwcVRMRHMwNEdzZjU3TEcvandtVnQ5cTBLYzBOVDRoQjhBNjUzTnhJUmxQR3JaeDRMQVNLc2h0RGc9PQo=",
-      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight_Data_Hub_0.4.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOW82ek9CSVUvZ0M4aVcvUUkvOXovd1N1R01rL2hwbk14Q1hHdDVPMTZsK3N6SkI3dVAxR0Q4N2VMUzIwenE0S3k0aDNsVzkrbDM5QWxySXJLbncvWXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTMwOTU0CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNC45X3g2NC1zZXR1cC5leGUKVlJxNmhpSWFkMWQ1VVk1bkp0eGhYYU53aWN0aSt4NlVvYWVTTi9jREZjUkVYNVk1aXgyZTJ3Q0I2eml5ejErM2hyODQxNk9nM1lZeUQ3dWZaNHRYRGc9PQo=",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight_Data_Hub_0.5.0_x64-setup.exe"
     }
   }
 }
