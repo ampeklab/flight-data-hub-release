@@ -1,11 +1,11 @@
 {
-  "version": "0.6.3",
-  "notes": "Чистый вывод LDM телеграммы без лишних декоративных заголовков в правой колонке отчета.",
-  "pub_date": "2026-08-08T10:08:00Z",
+  "version": "0.6.4",
+  "notes": "Обновленный адаптивный интерфейс LDM: компактные кнопки шапки, сегментированные вкладки режима ввода, адаптивный блок сканирования папки и удобная панель кнопок прямо под окном результата.",
+  "pub_date": "2026-08-08T10:18:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOWk2L0RyclNqYTlTNlJ4NFlyeWxyQVZDdUhkN2RHTDlYWDIyeFdPOHNCVGhVQ2pKWHcyTmIyL1pUc0FLOUVCZlhsUlNPMFA3dkE5ZFRzcFNGeFh1cXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTgzNjk0CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNi4zX3g2NC1zZXR1cC5leGUKa3ZnUDYvbnF1SmxrOUl2Yzd6dVVQYjBxVWsrei9raGZ6UG8rZ081cHBrU1U2bkU3Sm9KRGdlK000WElRQ0krTnVMNmlZYjY4ZGFwWTNDam5uZTdSQXc9PQo=",
-      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.6.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOWpSTzhYUFl1cTQ2TzdTSk8vV2ZSVXgzTXBEK0lwd0U2ZjF5VFlpWHVycFhaaXJGYkNQYXFJL3lCWnpzTTcxYzdsSHhndEp1UmFMUCtXT3NWMWFwVmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTg0Mjc4CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNi40X3g2NC1zZXR1cC5leGUKa1pkZkJyS2VNVDE4QVNZdEMxZDF1SVlKdkJxMXQ2Ry9hRmVEb1czdzl3TnlqNzloalg1dElJQ25SclU0TzZwcXRMWDNiYU1CWVRXT3NjWVlIRUY5Q3c9PQo=",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.6.4_x64-setup.exe"
     }
   }
 }
