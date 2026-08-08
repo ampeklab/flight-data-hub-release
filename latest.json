@@ -1,11 +1,11 @@
 {
-  "version": "0.6.1",
-  "notes": "Fix HTML modal dialog nesting, add individual module settings popups, instant real-time LDM auto-conversion and 3s folder watcher.",
-  "pub_date": "2026-08-08T03:07:00Z",
+  "version": "0.6.2",
+  "notes": "ИСПРАВЛЕНИЕ LDM веса пассажиров и багажники. Авто-чистка NOTOC/FUEL DENSITY, авто-разделение мужчин и женщин (203 -> 100/103), точный парсинг килограммов по отсекам Hold 1..5.",
+  "pub_date": "2026-08-08T09:55:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOW1hK3A3dU5TVk8xWkN5bXZLN3hTanFQYnZqbk16cjMrVHc4QU5HaFJjNlNxcC8vN2dTdkt4U1lTcnJma204U1Z6U3hGQWtUVlhrRERqZlluNHRCSFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTU4NDYzCWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNi4xX3g2NC1zZXR1cC5leGUKMy9PKzdqeWxiL2QyTFFYakRCdTNZdkxUU21vcGlqVG1hQkZDaHIxZXpPWVdidWFjL0drREJOVng2MnNOS0plaHhlWFU4SE9mTmR4RDBXbUhiK1lLQXc9PQo=",
-      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.6.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOW1FRGljN1RJRFkxR1F2OEZmLzdIM2F6MENSenNiWjZjQk8yVHFCaEc0WEhiZ2hybVBuV3YvR3grd0xvOXpzQ0xjSjNJT29xSGhnTVV1YmlOWitUVlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTgyOTEzCWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNi4yX3g2NC1zZXR1cC5leGUKYVZSbkhJT3FFSnZaZU9sRDBVQVQ2YitWYTdmYys1R1B5NVo5UzZFSWtJZllWcnowdnh1SkdhZkt0c1RHQlZyYTNObDBBWmRWY1NsbjNlb3FIUnV4Q3c9PQo=",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.6.2_x64-setup.exe"
     }
   }
 }
