@@ -1,11 +1,11 @@
 {
-  "version": "0.6.2",
-  "notes": "ИСПРАВЛЕНИЕ LDM веса пассажиров и багажники. Авто-чистка NOTOC/FUEL DENSITY, авто-разделение мужчин и женщин (203 -> 100/103), точный парсинг килограммов по отсекам Hold 1..5.",
-  "pub_date": "2026-08-08T09:55:00Z",
+  "version": "0.6.3",
+  "notes": "Чистый вывод LDM телеграммы без лишних декоративных заголовков в правой колонке отчета.",
+  "pub_date": "2026-08-08T10:08:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOW1FRGljN1RJRFkxR1F2OEZmLzdIM2F6MENSenNiWjZjQk8yVHFCaEc0WEhiZ2hybVBuV3YvR3grd0xvOXpzQ0xjSjNJT29xSGhnTVV1YmlOWitUVlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTgyOTEzCWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNi4yX3g2NC1zZXR1cC5leGUKYVZSbkhJT3FFSnZaZU9sRDBVQVQ2YitWYTdmYys1R1B5NVo5UzZFSWtJZllWcnowdnh1SkdhZkt0c1RHQlZyYTNObDBBWmRWY1NsbjNlb3FIUnV4Q3c9PQo=",
-      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.6.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOWk2L0RyclNqYTlTNlJ4NFlyeWxyQVZDdUhkN2RHTDlYWDIyeFdPOHNCVGhVQ2pKWHcyTmIyL1pUc0FLOUVCZlhsUlNPMFA3dkE5ZFRzcFNGeFh1cXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTgzNjk0CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNi4zX3g2NC1zZXR1cC5leGUKa3ZnUDYvbnF1SmxrOUl2Yzd6dVVQYjBxVWsrei9raGZ6UG8rZ081cHBrU1U2bkU3Sm9KRGdlK000WElRQ0krTnVMNmlZYjY4ZGFwWTNDam5uZTdSQXc9PQo=",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.6.3_x64-setup.exe"
     }
   }
 }
