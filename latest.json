@@ -1,11 +1,11 @@
 {
-  "version": "0.5.3",
-  "notes": "Official release v0.5.3 Pro with full English UI translation, zero encoding issues, LDM Telegram Converter module and automatic app restart!",
-  "pub_date": "2026-08-08T01:03:00Z",
+  "version": "0.6.0",
+  "notes": "Official release v0.6.0 Pro with full English UI translation, zero encoding issues, LDM Telegram Converter module and automatic app restart!",
+  "pub_date": "2026-08-08T01:39:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOWhKSTNWaWtjNUNmMU1sbklZUFFXd0pHUTJEOEE5cEZhWHJheUpiYmFKMTVIMlZ5MlE3NzhwejN5eC80NGpkRXovVHY1ZWZVQjk2M1pRZTY0aytxVEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTUwOTY0CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNS4zX3g2NC1zZXR1cC5leGUKeTlLVmhrQUNWWTRabGRZb0o4cGRsSzBvd1VWTFJzMzhWUVBITEtmTzBhMU1SNWRoeUdNcVNFcjU4T2RiS3JWTy8wdi85QmFob2sxdS9DOUc5T1JpQkE9PQo=",
-      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.5.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOWkyWFg3bUhhREFEY3dPc2VMbThvN2pnRERHbmIzUXBocnFGdGJ5TVRWZmNrWDR4VXVUMGVIanN4VjIxTllQblpySWxTMHFkZnhuMkJiNnpEQ2hUMXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTUzMTMyCWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNi4wX3g2NC1zZXR1cC5leGUKRDhNQWhDbmFhUVhHVEFkbnpoZ0VQdTFuN0NsaHg0RkVRcnE3TXhLdkFMS25jMVdRMHNXS1plcGd3TXJ6ZzlQeCt4M05TVkgzMGJxTGxWN0xXalNIQkE9PQo=",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.6.0_x64-setup.exe"
     }
   }
 }
