@@ -1,11 +1,11 @@
 {
-  "version": "0.5.2",
-  "notes": "Вышел официальный стабильный релиз v0.5.2 Pro! Исправлена подпись minisign, чистые шрифты UTF-8, запущен авто-перезапуск после обновления и модуль LDM Converter!",
-  "pub_date": "2026-08-08T00:52:00Z",
+  "version": "0.5.3",
+  "notes": "Вышел официальный релиз v0.5.3 Pro! Полностью исправлена кодировка UTF-8 (без BOM), идеальное отображение русских шрифтов, модуль LDM Converter и авто-перезапуск!",
+  "pub_date": "2026-08-08T00:58:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOXJWVTAySm5ETTF5NUNESTJWYTdyNXRQTEI2T051WUsxNmR1S0NROFRORjh0SWNSeFBXK3U4aFM3RmloT1BqTkx4em56ZXVCdnNkVWl1Wm1jVm9JRmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTUwMDg0CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNS4yX3g2NC1zZXR1cC5leGUKTVhta0RqMHFHdlhocENrSGlzczJqODFRaU5jNUxpM1JzcTI3L1o1czZWdG5RNStVcmZHcVpncEJuZEJkNGd4UFJ2Y0J4Mk1wQkN3N28zdGNJbUlGQ1E9PQo=",
-      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.5.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOXFINEFJbmpJMDNKRERwQVpxaVdKREkyM29xYk9uVEZUMng1OGE4UVJleGVyV3FMVXdScDZpemQ5SGZsNkIvSEcyL0lBVmk2RUg4cGdpejI2NXYyZUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTUwNjgyCWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNS4zX3g2NC1zZXR1cC5leGUKQURGWEROVmdoY05xcDZWLytqWGV0c2RzdVd2TzRjOVZSQkRpb3lJeEw1UTh5ak4rN1A5cC9YaFY0eExRSHVHUllvT2FUcnFjZXllWExQZjZ5eUxyQ2c9PQo=",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.5.3_x64-setup.exe"
     }
   }
 }
