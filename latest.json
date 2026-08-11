@@ -1,11 +1,11 @@
 {
-  "version": "0.6.4",
-  "notes": "Обновленный адаптивный интерфейс LDM: компактные кнопки шапки, сегментированные вкладки режима ввода, адаптивный блок сканирования папки и удобная панель кнопок прямо под окном результата.",
-  "pub_date": "2026-08-08T10:18:00Z",
+  "version": "0.6.5",
+  "notes": "v0.6.5 Pro: Устранена ошибка TypeError в модуле обработчика PRL и манифестов, полностью восстановлена стабильная передача параметров и выгрузка результатов.",
+  "pub_date": "2026-08-11T07:38:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOWpSTzhYUFl1cTQ2TzdTSk8vV2ZSVXgzTXBEK0lwd0U2ZjF5VFlpWHVycFhaaXJGYkNQYXFJL3lCWnpzTTcxYzdsSHhndEp1UmFMUCtXT3NWMWFwVmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MTg0Mjc4CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNi40X3g2NC1zZXR1cC5leGUKa1pkZkJyS2VNVDE4QVNZdEMxZDF1SVlKdkJxMXQ2Ry9hRmVEb1czdzl3TnlqNzloalg1dElJQ25SclU0TzZwcXRMWDNiYU1CWVRXT3NjWVlIRUY5Q3c9PQo=",
-      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.6.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOXBvelQ0REt3ODZVMVZIWm9jRGtyTjhYcnlZbWVFMmgxYkNyMlpsOTdhcUNoeTU3cHo2cmFVQTQ5eVJJV3p3cjUzN0FBSUF6SkFPZHhoOStJZE1GRlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDIzMTEyCWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNi41X3g2NC1zZXR1cC5leGUKUVVBNjViMlV0QTBvWmJvMS9OcWNYdG5aQ0VTVm9JQVVGa2xVWXVJOHRtYTB2enN6ZVV0TWliVE1IczlOL21qS2R1OXJMSythaElQTExTdGRScmxmQlE9PQ==",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.6.5_x64-setup.exe"
     }
   }
 }
