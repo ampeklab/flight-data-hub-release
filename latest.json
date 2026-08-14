@@ -1,10 +1,10 @@
 {
   "version": "0.6.9",
   "notes": "v0.6.9 Pro: Чистое форматирование пробелами в строке разборки SI блока LDM (без символов подчеркивания).",
-  "pub_date": "2026-08-14T22:29:00Z",
+  "pub_date": "2026-08-14T22:38:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOWg5Z1ZsMUdUdE5uRkxvdTVGeVRzeTNGbmh6cVVsTzR1MWhadkdjaDFuY1JDOE1uQWRLYTRQNUZwTmRzTXFZQ1hxeVAvRXpaN2R3TzNsVFViMGU4cEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzM1NzY1CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNi45X3g2NC1zZXR1cC5leGUKL01NaTB6eEVpdXBVSzlrNWFvSnBXYlQvNzc2WjhYalg0Tkgvbi9QdkdLdkJsdE50UGJPaHpSUGJvT3pGSVl6WTJudE9uMkZRWjVnYTUzZWFFSmRWQ3c9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOWw1RFM0amxpbmhGczJyS3ltMGdNYVdCQlhHUXlUc0JiYWVqN1JDVU1TK25OOTdVZXNQdzBSL1NnZy9yMFN3WldObjJxeXNseWVlNGtYYU50RUo4ZEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzM2MzE1CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNi45X3g2NC1zZXR1cC5leGUKSW5pdUdjZnJZV3BXM0N2MmFORzN2c1JQaW8yaDQyaVVhT3E0QkdWVk9NRUc4QWcwbDVubFJObXFsb2JLZ0Y4NkJWOU81SndMWHZ3RVJFUnRneXh1QWc9PQo=",
       "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.6.9_x64-setup.exe"
     }
   }
