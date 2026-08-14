@@ -1,11 +1,11 @@
 {
-  "version": "0.6.5",
-  "notes": "v0.6.5 Pro: Устранена ошибка TypeError в модуле обработчика PRL и манифестов, полностью восстановлена стабильная передача параметров и выгрузка результатов.",
-  "pub_date": "2026-08-11T07:38:00Z",
+  "version": "0.6.6",
+  "notes": "v0.6.6 Pro: Генератор стандарта IATA LDM, автобалансировка сумм холдов и коммерческой загрузки, кнопка 📦 Archive в Manifest модуле и разделение страниц настроек.",
+  "pub_date": "2026-08-14T19:26:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOXBvelQ0REt3ODZVMVZIWm9jRGtyTjhYcnlZbWVFMmgxYkNyMlpsOTdhcUNoeTU3cHo2cmFVQTQ5eVJJV3p3cjUzN0FBSUF6SkFPZHhoOStJZE1GRlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDIzMTEyCWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNi41X3g2NC1zZXR1cC5leGUKUVVBNjViMlV0QTBvWmJvMS9OcWNYdG5aQ0VTVm9JQVVGa2xVWXVJOHRtYTB2enN6ZVV0TWliVE1IczlOL21qS2R1OXJMSythaElQTExTdGRScmxmQlE9PQ==",
-      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.6.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOW1xdmFrb0FSdnRyUFJSemczTk5tajU3L3JHRmtLd3l3TjJRSmFqcU5od3RwNU5sWTMrL0lvcjh6OUx6L2tzcktRQnJRdkVUR2FHMExXNUpFYW85S0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzI0NzY5CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNi42X3g2NC1zZXR1cC5leGUKekZBUFA4RmlYSHkvSnF5WXlYNlByRnZtd1I5ckxFaUtqWHEyZlhFbVIzTE5OZ2xHWU5CMlZGYmMxdjBLUE53VXFhb3VmS3N5VmRvM0FBa0FqRHdaQVE9PQo=",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.6.6_x64-setup.exe"
     }
   }
 }
