@@ -1,11 +1,11 @@
 {
-  "version": "0.7.6",
-  "notes": "v0.7.6 Pro: 100% полнота считывания RPL/PRL пассажиров вне зависимости от нумерации строк и 2 основные карточки загрузки (MANIFEST и PRL/RPL).",
-  "pub_date": "2026-08-15T00:04:00Z",
+  "version": "0.7.7",
+  "notes": "v0.7.7 Pro: Переход к Настройкам директорий по кнопке ⚙️ Settings, зеленые бейджи с подсказкой полного пути выбранного файла и устойчивый Архив.",
+  "pub_date": "2026-08-15T00:13:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOXFIZEtMbUFjd1RmM01ONCtlSmhGbnN4bjRBZWVnUWhJTnV3SnJ0YkxtK2w4OFF6THF6R1grZHBaSUxabklBREdqckU3ZlErNW9WOHY0MnYyUVNoL3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzQxNDgyCWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNy42X3g2NC1zZXR1cC5leGUKcDdSaW9uTjZSMFQ4bVVodzNMb0xSa0FvQmVEL01tOU5aV2R6WDkwNDA4ODhlbnNmWldybWNwRHVNbTBTZTdQRGZHc3F2dWNmQnVBZEVBUGdUZTY1QXc9PQo=",
-      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.7.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOW1OUVF4UHM5SEVMZk4vSGN5WWo4Mms2Qk9JODJjSm1lVmQ5azhCV3hKMmhJVjMvN3lhVHdlbXdpMXV2amEwMmRrd1dyMlpQNys2blZJRzZYYW9jdndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzQyMDI5CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNy43X3g2NC1zZXR1cC5leGUKNkxQRitzMG1MZDlXNFowbFNsTmIzZWtLSUhGWERuc0tId2hVNmhsSkh4MTErQ0FQZGtja0VuNEJzRElkMFF3cW1VVlNsRis3eTVZSlFtalJ6MElpQ1E9PQo=",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.7.7_x64-setup.exe"
     }
   }
 }
