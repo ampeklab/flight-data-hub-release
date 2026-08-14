@@ -1,11 +1,11 @@
 {
-  "version": "0.6.7",
-  "notes": "v0.6.7 Pro: Расширен список выпадающих пресетов экипажа (Crew) от 2/4 до 4/6 с полной поддержкой произвольного ручного ввода.",
-  "pub_date": "2026-08-14T19:30:00Z",
+  "version": "0.6.8",
+  "notes": "v0.6.8 Pro: Обновлен формат блока SI (PAX WEIGHT, Pantry Code и весовые строки коммерческой нагрузки).",
+  "pub_date": "2026-08-14T22:26:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOW5WdkVqSC9mYmpSMVo0YU5PNTd1YU55VW1IRWdkZlRRUFVCSkhIdnk4cVVTcTNUa2RsMnMvUDlSLzhTSlJOTDEzVFZ0blJaSDhaYURsTkF6K1U4SFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzI4NjU0CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNi43X3g2NC1zZXR1cC5leGUKbkxMSTdBQUIrTUY4R2RRZnZ1bkcyV1hNeFU2ajNtdlk3MmhIYlh4VFltS1BtVjhjQk55bXlGR1l0U3A1MXJySWwrR2hueFh3cEpPWHMyeEIrYVJBRFE9PQo=",
-      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.6.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOXVQYnJCeTB2MkJXU3VZcGtBYXVKd3Nvb0RjWlIvenRJTHphOXlhU21FdFU1UVZLbmZ6RDR1WXJsMm1NZHU5aVVGQ1d2NHUrckpLUS8rckJQckF2eEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzM1NTkwCWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNi44X3g2NC1zZXR1cC5leGUKWHFieWZMYjM3cFhFRVhBZnBUd2hTWFRpSWxrRjhtdkdpQjJSS1dHRHVyRWV0eXU0bmNVZjdSejJkM2k5Vll5cXI2ZUhLdXlIR0JtMWZveERoU0V1QUE9PQo=",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.6.8_x64-setup.exe"
     }
   }
 }
