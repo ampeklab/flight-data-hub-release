@@ -1,10 +1,10 @@
 {
   "version": "0.7.2",
   "notes": "v0.7.2 Pro: Новый IATA формат блока SI LDM, Pantry Code, пресеты Crew и архив манифестов.",
-  "pub_date": "2026-08-14T20:09:00Z",
+  "pub_date": "2026-08-14T20:12:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOXZaajcxUk16SFM3OTdwRkg4dXNpOU9lSWk0eXFQSDR3d1VKMTdNZVY3Z1MrdmxUajg4aCtKWjh2Q2hXMmxGeEQwR1dkQ3BYWW1uQzc3YTZDcHpxZ3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzM4MTUyCWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNy4yX3g2NC1zZXR1cC5leGUKSUtCaUFlSjRMYUtjSmVscE9NNGRsZjRSVlJzZHFEOXBDTjYrZHU2MDIvQzBZMGdjMm5mR1ZWTWg0QzA4V01kejlaeTJycWhKOExvTU1PWFpCdlZaQ1E9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOWxXTTRUV1JpMktVQkdYTW5ScGZ4Y20yMmRCd2Z3VnhtanRpanBsTGFpdk8zN2FNVnR3STFycnVnMTM3VFd1aUwzUW15emc1aFVMY2VTTks3NkVkVVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzM4MzQ5CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNy4yX3g2NC1zZXR1cC5leGUKZTArWlF5MzJYMnNQbWp2RTRiRjVvTkVKTnBRNHU1d0xiejlTVnZLTkRtTHFjWjVZQjkzYTB5T29hd05SUE1RTFpLc1pHRldlZG1MR05xWmplVzB4QlE9PQo=",
       "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.7.2_x64-setup.exe"
     }
   }
