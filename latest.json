@@ -1,11 +1,11 @@
 {
-  "version": "0.6.8",
-  "notes": "v0.6.8 Pro: Обновлен формат блока SI (PAX WEIGHT, Pantry Code и весовые строки коммерческой нагрузки).",
-  "pub_date": "2026-08-14T22:26:00Z",
+  "version": "0.6.9",
+  "notes": "v0.6.9 Pro: Чистое форматирование пробелами в строке разборки SI блока LDM (без символов подчеркивания).",
+  "pub_date": "2026-08-14T22:29:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOXVQYnJCeTB2MkJXU3VZcGtBYXVKd3Nvb0RjWlIvenRJTHphOXlhU21FdFU1UVZLbmZ6RDR1WXJsMm1NZHU5aVVGQ1d2NHUrckpLUS8rckJQckF2eEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzM1NTkwCWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNi44X3g2NC1zZXR1cC5leGUKWHFieWZMYjM3cFhFRVhBZnBUd2hTWFRpSWxrRjhtdkdpQjJSS1dHRHVyRWV0eXU0bmNVZjdSejJkM2k5Vll5cXI2ZUhLdXlIR0JtMWZveERoU0V1QUE9PQo=",
-      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.6.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOWg5Z1ZsMUdUdE5uRkxvdTVGeVRzeTNGbmh6cVVsTzR1MWhadkdjaDFuY1JDOE1uQWRLYTRQNUZwTmRzTXFZQ1hxeVAvRXpaN2R3TzNsVFViMGU4cEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzM1NzY1CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNi45X3g2NC1zZXR1cC5leGUKL01NaTB6eEVpdXBVSzlrNWFvSnBXYlQvNzc2WjhYalg0Tkgvbi9QdkdLdkJsdE50UGJPaHpSUGJvT3pGSVl6WTJudE9uMkZRWjVnYTUzZWFFSmRWQ3c9PQo=",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.6.9_x64-setup.exe"
     }
   }
 }
