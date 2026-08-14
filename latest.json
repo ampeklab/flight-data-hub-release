@@ -1,11 +1,11 @@
 {
-  "version": "0.7.8",
-  "notes": "v0.7.8 Pro: Кнопка мгновенного открытия Excel отчета 📂 Open Excel Folder, кнопки 📂 Open для просмотра любых папок и улучшенное автосканирование RPL/PRL.",
-  "pub_date": "2026-08-15T00:31:00Z",
+  "version": "0.7.9",
+  "notes": "v0.7.9 Pro: Исправление отображения верстки страницы Настроек, удален незакрытый тег разметки.",
+  "pub_date": "2026-08-15T01:50:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOW1ZeU5kRzRjQW5wbkQ2M0hlV0tPVi9WN3lQQUtKVWtnb2F6N1F3RWZ1WG1QbFJlQXY2ZHlReEt4WUhURmZkNVRsaUE5cUk3cVQ5cFhKSFdEU2Z6d1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzQzMDg0CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNy44X3g2NC1zZXR1cC5leGUKc3JyNXhacmpvdnBOamN2Q3dRRlVNMmZPYlNBUWxTakZJaU12bmMxYUZPdVIxTmdRc1VDTVVQaDdwZkhsakRqZVJ1MlhxQjRtZXgyOURSdTg2bUc0QVE9PQo=",
-      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.7.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOWlMWjQ3RktCbGUxNVVGSkZSOTZMNzRJU2M0UkhKbEFqTnRXYnVqbVNiODR6NXF5L05TOGY3cExVTE1YMmVCdVBSSnJvV29mL3czVCsrRExvQjZ4K0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzQ3Nzk1CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNy45X3g2NC1zZXR1cC5leGUKeWhlT2NQSG5BQzBOM0xGNWw2WnZkU095UDkwMTBSTEczMHlZQTN6eHZkZWpyTmdsNHlrTE1NUTJBa3lNYlV4RXpIWXJ6eU5Gd3NEOGtIa0VvdGhQQXc9PQo=",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.7.9_x64-setup.exe"
     }
   }
 }
