@@ -1,11 +1,11 @@
 {
-  "version": "0.7.7",
-  "notes": "v0.7.7 Pro: Переход к Настройкам директорий по кнопке ⚙️ Settings, зеленые бейджи с подсказкой полного пути выбранного файла и устойчивый Архив.",
-  "pub_date": "2026-08-15T00:13:00Z",
+  "version": "0.7.8",
+  "notes": "v0.7.8 Pro: Кнопка мгновенного открытия Excel отчета 📂 Open Excel Folder, кнопки 📂 Open для просмотра любых папок и улучшенное автосканирование RPL/PRL.",
+  "pub_date": "2026-08-15T00:31:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOW1OUVF4UHM5SEVMZk4vSGN5WWo4Mms2Qk9JODJjSm1lVmQ5azhCV3hKMmhJVjMvN3lhVHdlbXdpMXV2amEwMmRrd1dyMlpQNys2blZJRzZYYW9jdndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzQyMDI5CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNy43X3g2NC1zZXR1cC5leGUKNkxQRitzMG1MZDlXNFowbFNsTmIzZWtLSUhGWERuc0tId2hVNmhsSkh4MTErQ0FQZGtja0VuNEJzRElkMFF3cW1VVlNsRis3eTVZSlFtalJ6MElpQ1E9PQo=",
-      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.7.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOW1ZeU5kRzRjQW5wbkQ2M0hlV0tPVi9WN3lQQUtKVWtnb2F6N1F3RWZ1WG1QbFJlQXY2ZHlReEt4WUhURmZkNVRsaUE5cUk3cVQ5cFhKSFdEU2Z6d1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzQzMDg0CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNy44X3g2NC1zZXR1cC5leGUKc3JyNXhacmpvdnBOamN2Q3dRRlVNMmZPYlNBUWxTakZJaU12bmMxYUZPdVIxTmdRc1VDTVVQaDdwZkhsakRqZVJ1MlhxQjRtZXgyOURSdTg2bUc0QVE9PQo=",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.7.8_x64-setup.exe"
     }
   }
 }
