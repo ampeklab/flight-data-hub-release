@@ -1,11 +1,11 @@
 {
-  "version": "0.7.4",
-  "notes": "v0.7.4 Pro: Форматирование строки разборки SI с 4 пробелами между буквой категории и цифрой (EVN C    0 M    0 B    57/1000 O    0 T    2369), принудительный CAPS LOCK, удаление placeholder и единое поле DEST.",
-  "pub_date": "2026-08-14T20:27:00Z",
+  "version": "0.7.5",
+  "notes": "v0.7.5 Pro: Возврат стандартного оригинального формата SI строки разборки (EVN C0 M0 B57/1000 O0 T2369), принудительный CAPS LOCK, удаление placeholder и единое поле DEST.",
+  "pub_date": "2026-08-14T20:52:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOW1iMTdUdEgzUjVMSjk5L1Rsa2NKQnZ2YVo0SFMxMzl3cVpqOHJweFAzNlErbUNxakJXMGh5bkF2MDMxTHM5NXNIT01YY0pFNWRta1lVdncvZE9SMlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzM5MjI0CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNy40X3g2NC1zZXR1cC5leGUKQ0lHampuVHRwU0N5ZlA0MHdYcFIxellaN2RwUkpPYUQwSmVXZnpuVHNoTXNwQWE2bm5pZE5uNlYyNjk0c1dwTk5LTGR3YkFwODF0eExoUXVMQ1p4RHc9PQo=",
-      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.7.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOWdheDZxbWJ5ZUpyaVJ2b1A1eURvUk5YS3Q4YTNFbSt4bzhLdm0xMFM3NkhZeDhYbU5yTTJCc0dFUlpLdXZSaGRuaHY0TnBQR2Ezb1d3bEkzK0NnUHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzQwNzU5CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNy41X3g2NC1zZXR1cC5leGUKWEhndTByQUVya1AyRVVobzJsa1dBTXJOQ3h0eElKUzE0OU9nS3NjQ0t2L0N5R043aHpDM0ZJUE5QWGZ1T3NJdUJLcjM3R0VLMVpVQ0NubWtRbENCQUE9PQo=",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.7.5_x64-setup.exe"
     }
   }
 }
