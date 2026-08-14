@@ -1,11 +1,11 @@
 {
-  "version": "0.6.9",
-  "notes": "v0.6.9 Pro: Чистое форматирование пробелами в строке разборки SI блока LDM (без символов подчеркивания).",
-  "pub_date": "2026-08-14T19:38:00Z",
+  "version": "0.7.0",
+  "notes": "v0.7.0 Pro Major Update: Новый IATA формат блока SI LDM, поле Pantry Code, полный выпадающий список пресетов Crew и архив обработанных манифестов.",
+  "pub_date": "2026-08-14T19:49:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOWw1RFM0amxpbmhGczJyS3ltMGdNYVdCQlhHUXlUc0JiYWVqN1JDVU1TK25OOTdVZXNQdzBSL1NnZy9yMFN3WldObjJxeXNseWVlNGtYYU50RUo4ZEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzM2MzE1CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNi45X3g2NC1zZXR1cC5leGUKSW5pdUdjZnJZV3BXM0N2MmFORzN2c1JQaW8yaDQyaVVhT3E0QkdWVk9NRUc4QWcwbDVubFJObXFsb2JLZ0Y4NkJWOU81SndMWHZ3RVJFUnRneXh1QWc9PQo=",
-      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.6.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOWxwVFdEVHFOUEMyQ0dsaERUWS9zN1krL091WENvc0k5Sm1oZ0dTVXhnQkdkUko4b24yVHJDZ0w2K2ZNZnhEZzRPT21hUjhKb2VVNUI4N3hlL2lDcVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzM2OTgxCWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNy4wX3g2NC1zZXR1cC5leGUKSlJnQytTRUpPUXlxdWw1aExsOFBERGxkdmJqcVR0b0xnL05UcS9PTmt1L052ZGtCbEJIVzJ0ZkhEWXNuZlZTWERDUEY3ZE16cUk3NzRPNWJHYlF6QXc9PQo=",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.7.0_x64-setup.exe"
     }
   }
 }
