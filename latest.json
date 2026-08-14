@@ -1,19 +1,19 @@
 {
-  "version": "0.7.0",
-  "notes": "v0.7.0 Pro Major Update: Новый IATA формат блока SI LDM, поле Pantry Code, полный выпадающий список пресетов Crew и архив обработанных манифестов.",
-  "pub_date": "2026-08-14T19:49:00Z",
+  "version": "0.7.1",
+  "notes": "v0.7.1 Pro: Интегрировано модальное окно авто-обновления #update-modal и кнопка прямого скачивания Direct Setup.exe.",
+  "pub_date": "2026-08-14T19:58:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOWxwVFdEVHFOUEMyQ0dsaERUWS9zN1krL091WENvc0k5Sm1oZ0dTVXhnQkdkUko4b24yVHJDZ0w2K2ZNZnhEZzRPT21hUjhKb2VVNUI4N3hlL2lDcVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzM2OTgxCWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNy4wX3g2NC1zZXR1cC5leGUKSlJnQytTRUpPUXlxdWw1aExsOFBERGxkdmJqcVR0b0xnL05UcS9PTmt1L052ZGtCbEJIVzJ0ZkhEWXNuZlZTWERDUEY3ZE16cUk3NzRPNWJHYlF6QXc9PQo=",
-      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.7.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOW5RRU9nU0FvZU1JV29XYW0raTdEa2hIZGpraXprZm80bnhTSjFmMGlnak82OGliNDVoRTJFQzZCU0RVS2pGRkdHcWZLeFh6dzluOXl2WFpmSnJibHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzM3NTM3CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNy4xX3g2NC1zZXR1cC5leGUKS0FueG53bW9XdzZSVUJUcnlwREVoTzJNQ1pDQ1ZUS3RLcFg4ckR0V0c1VkY4Uzh4U1dQdVZvQkJRbDdoRm90U1llczRRL21xL2wxUDUrL3MxM3lxQWc9PQo=",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.7.1_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOWxwVFdEVHFOUEMyQ0dsaERUWS9zN1krL091WENvc0k5Sm1oZ0dTVXhnQkdkUko4b24yVHJDZ0w2K2ZNZnhEZzRPT21hUjhKb2VVNUI4N3hlL2lDcVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzM2OTgxCWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNy4wX3g2NC1zZXR1cC5leGUKSlJnQytTRUpPUXlxdWw1aExsOFBERGxkdmJqcVR0b0xnL05UcS9PTmt1L052ZGtCbEJIVzJ0ZkhEWXNuZlZTWERDUEY3ZE16cUk3NzRPNWJHYlF6QXc9PQo=",
-      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.7.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOW5RRU9nU0FvZU1JV29XYW0raTdEa2hIZGpraXprZm80bnhTSjFmMGlnak82OGliNDVoRTJFQzZCU0RVS2pGRkdHcWZLeFh6dzluOXl2WFpmSnJibHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzM3NTM3CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNy4xX3g2NC1zZXR1cC5leGUKS0FueG53bW9XdzZSVUJUcnlwREVoTzJNQ1pDQ1ZUS3RLcFg4ckR0V0c1VkY4Uzh4U1dQdVZvQkJRbDdoRm90U1llczRRL21xL2wxUDUrL3MxM3lxQWc9PQo=",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.7.1_x64-setup.exe"
     },
     "x86_64-pc-windows-msvc": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOWxwVFdEVHFOUEMyQ0dsaERUWS9zN1krL091WENvc0k5Sm1oZ0dTVXhnQkdkUko4b24yVHJDZ0w2K2ZNZnhEZzRPT21hUjhKb2VVNUI4N3hlL2lDcVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzM2OTgxCWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNy4wX3g2NC1zZXR1cC5leGUKSlJnQytTRUpPUXlxdWw1aExsOFBERGxkdmJqcVR0b0xnL05UcS9PTmt1L052ZGtCbEJIVzJ0ZkhEWXNuZlZTWERDUEY3ZE16cUk3NzRPNWJHYlF6QXc9PQo=",
-      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.7.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOW5RRU9nU0FvZU1JV29XYW0raTdEa2hIZGpraXprZm80bnhTSjFmMGlnak82OGliNDVoRTJFQzZCU0RVS2pGRkdHcWZLeFh6dzluOXl2WFpmSnJibHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzM3NTM3CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNy4xX3g2NC1zZXR1cC5leGUKS0FueG53bW9XdzZSVUJUcnlwREVoTzJNQ1pDQ1ZUS3RLcFg4ckR0V0c1VkY4Uzh4U1dQdVZvQkJRbDdoRm90U1llczRRL21xL2wxUDUrL3MxM3lxQWc9PQo=",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.7.1_x64-setup.exe"
     }
   }
 }
