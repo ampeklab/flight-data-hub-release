@@ -1,11 +1,11 @@
 {
-  "version": "0.7.9",
-  "notes": "v0.7.9 Pro: Исправление отображения верстки страницы Настроек, удален незакрытый тег разметки.",
-  "pub_date": "2026-08-15T01:50:00Z",
+  "version": "0.8.1",
+  "notes": "Flight Data Hub v0.8.1: Интеграция реальной отправки LDM по SMTP (Яндекс Почта), редактирование правил автомаршрутизации, база флота ВС и чистый ручной ввод.",
+  "pub_date": "2026-08-28T01:06:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOWlMWjQ3RktCbGUxNVVGSkZSOTZMNzRJU2M0UkhKbEFqTnRXYnVqbVNiODR6NXF5L05TOGY3cExVTE1YMmVCdVBSSnJvV29mL3czVCsrRExvQjZ4K0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzQ3Nzk1CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuNy45X3g2NC1zZXR1cC5leGUKeWhlT2NQSG5BQzBOM0xGNWw2WnZkU095UDkwMTBSTEczMHlZQTN6eHZkZWpyTmdsNHlrTE1NUTJBa3lNYlV4RXpIWXJ6eU5Gd3NEOGtIa0VvdGhQQXc9PQo=",
-      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.7.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOW5CaWpOY29NRzRvWHpPTHB3bTNSTkFNS05raE5LYTJoVEZiMDI2VGhrMUg4Y0JBbnUzaDNQZWpDKzAvOFVmRHVTUit4Q1lNaTlzaE5IcVFVTGVadkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODY4MzcxCWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuOC4xX3g2NC1zZXR1cC5leGUKdnNjYzZTdjJDbHRwWWRTcXhVWmE2TjdnZ3Faemp2S1J5MFZESnZTcGgzREtFWXJONmtQN2NFamJOL0lCUlQxcGs2WHQvSWRPMUJkcysyQmV6Z2RNREE9PQo=",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.8.1_x64-setup.exe"
     }
   }
 }
