@@ -6,6 +6,14 @@
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOW5CaWpOY29NRzRvWHpPTHB3bTNSTkFNS05raE5LYTJoVEZiMDI2VGhrMUg4Y0JBbnUzaDNQZWpDKzAvOFVmRHVTUit4Q1lNaTlzaE5IcVFVTGVadkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODY4MzcxCWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuOC4xX3g2NC1zZXR1cC5leGUKdnNjYzZTdjJDbHRwWWRTcXhVWmE2TjdnZ3Faemp2S1J5MFZESnZTcGgzREtFWXJONmtQN2NFamJOL0lCUlQxcGs2WHQvSWRPMUJkcysyQmV6Z2RNREE9PQo=",
       "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.8.1_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOW5CaWpOY29NRzRvWHpPTHB3bTNSTkFNS05raE5LYTJoVEZiMDI2VGhrMUg4Y0JBbnUzaDNQZWpDKzAvOFVmRHVTUit4Q1lNaTlzaE5IcVFVTGVadkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODY4MzcxCWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuOC4xX3g2NC1zZXR1cC5leGUKdnNjYzZTdjJDbHRwWWRTcXhVWmE2TjdnZ3Faemp2S1J5MFZESnZTcGgzREtFWXJONmtQN2NFamJOL0lCUlQxcGs2WHQvSWRPMUJkcysyQmV6Z2RNREE9PQo=",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.8.1_x64-setup.exe"
+    },
+    "x86_64-pc-windows-msvc": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOW5CaWpOY29NRzRvWHpPTHB3bTNSTkFNS05raE5LYTJoVEZiMDI2VGhrMUg4Y0JBbnUzaDNQZWpDKzAvOFVmRHVTUit4Q1lNaTlzaE5IcVFVTGVadkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODY4MzcxCWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuOC4xX3g2NC1zZXR1cC5leGUKdnNjYzZTdjJDbHRwWWRTcXhVWmE2TjdnZ3Faemp2S1J5MFZESnZTcGgzREtFWXJONmtQN2NFamJOL0lCUlQxcGs2WHQvSWRPMUJkcysyQmV6Z2RNREE9PQo=",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.8.1_x64-setup.exe"
     }
   }
 }
