@@ -1,19 +1,19 @@
 {
-  "version": "0.8.3",
-  "notes": "Flight Data Hub v0.8.3: Система авторизации и блокировки с быстрым PIN-кодом, защищенное администрирование операторов (SHA-256), новый модуль PNL Converter (очистка телеграмм от мусора связи и экспорт по стандартам IATA), PDF Manifest Converter, обновленный Data Hub и фоновая автопроверка обновлений.",
-  "pub_date": "2026-08-28T01:14:30.365Z",
+  "version": "0.8.4",
+  "notes": "Flight Data Hub v0.8.4: Новый модуль NOTOC (Notification to Captain) с интерактивным векторным чертежом ВС, палитрой спецгрузов IATA IMP, вводом точного веса/мест, печатным бланком КВС A4 (AHM 381), справочником IATA DGR и защитой от сбоев ErrorBoundary.",
+  "pub_date": "2026-08-29T03:29:46.211Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOXFVazN4UzlsYW1qdFhOMG5PdW1LTGJpZ1lZR1hSUDdkSkx0RG51MVUyMGdzSFgyRDNQNWtZMlp1L1RFWm9aQ3VOcUZaMVNpaG1NU0wxZjMwUlh1bFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODc5NjcwCWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuOC4zX3g2NC1zZXR1cC5leGUKQ3JwOE5rMHpuYnhINFJKNDJiakdBUjlpUEtsZlJ0YkMzNE9hNjMrVkRWTGR1eVpETDJhVDlocDFOOWFYNFVyNmYxRWJoa0llRGxpUVdlSWEvRkxmRGc9PQo=",
-      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.8.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOXNURng2WTJOdjFMbWxHbmVpWGpheDRNMnVsSnZUSHJPblFsb3I0cklUaHA3UlhwNmxxeXhHa1pHTnJJdkc0N2g4WlVqUStQSTRyZ0hhMGtaTnlSTXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTc0MTg2CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuOC40X3g2NC1zZXR1cC5leGUKZGd4TXNhMFRpejBaTkJueDBLLzg4c1FlNUNKSGpMZkhzZ1UvVVI1M3dUWG10OVgrWHFNMkN2Z2Y4dXZmN0drSmduRWxKVjlxWGpDT0V2OGNTRnVWQmc9PQo=",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.8.4_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOXFVazN4UzlsYW1qdFhOMG5PdW1LTGJpZ1lZR1hSUDdkSkx0RG51MVUyMGdzSFgyRDNQNWtZMlp1L1RFWm9aQ3VOcUZaMVNpaG1NU0wxZjMwUlh1bFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODc5NjcwCWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuOC4zX3g2NC1zZXR1cC5leGUKQ3JwOE5rMHpuYnhINFJKNDJiakdBUjlpUEtsZlJ0YkMzNE9hNjMrVkRWTGR1eVpETDJhVDlocDFOOWFYNFVyNmYxRWJoa0llRGxpUVdlSWEvRkxmRGc9PQo=",
-      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.8.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOXNURng2WTJOdjFMbWxHbmVpWGpheDRNMnVsSnZUSHJPblFsb3I0cklUaHA3UlhwNmxxeXhHa1pHTnJJdkc0N2g4WlVqUStQSTRyZ0hhMGtaTnlSTXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTc0MTg2CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuOC40X3g2NC1zZXR1cC5leGUKZGd4TXNhMFRpejBaTkJueDBLLzg4c1FlNUNKSGpMZkhzZ1UvVVI1M3dUWG10OVgrWHFNMkN2Z2Y4dXZmN0drSmduRWxKVjlxWGpDT0V2OGNTRnVWQmc9PQo=",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.8.4_x64-setup.exe"
     },
     "x86_64-pc-windows-msvc": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOXFVazN4UzlsYW1qdFhOMG5PdW1LTGJpZ1lZR1hSUDdkSkx0RG51MVUyMGdzSFgyRDNQNWtZMlp1L1RFWm9aQ3VOcUZaMVNpaG1NU0wxZjMwUlh1bFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODc5NjcwCWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuOC4zX3g2NC1zZXR1cC5leGUKQ3JwOE5rMHpuYnhINFJKNDJiakdBUjlpUEtsZlJ0YkMzNE9hNjMrVkRWTGR1eVpETDJhVDlocDFOOWFYNFVyNmYxRWJoa0llRGxpUVdlSWEvRkxmRGc9PQo=",
-      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.8.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc2V2MjFEVXRyOXNURng2WTJOdjFMbWxHbmVpWGpheDRNMnVsSnZUSHJPblFsb3I0cklUaHA3UlhwNmxxeXhHa1pHTnJJdkc0N2g4WlVqUStQSTRyZ0hhMGtaTnlSTXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTc0MTg2CWZpbGU6RmxpZ2h0IERhdGEgSHViXzAuOC40X3g2NC1zZXR1cC5leGUKZGd4TXNhMFRpejBaTkJueDBLLzg4c1FlNUNKSGpMZkhzZ1UvVVI1M3dUWG10OVgrWHFNMkN2Z2Y4dXZmN0drSmduRWxKVjlxWGpDT0V2OGNTRnVWQmc9PQo=",
+      "url": "https://raw.githubusercontent.com/ampeklab/flight-data-hub-release/main/Flight%20Data%20Hub_0.8.4_x64-setup.exe"
     }
   }
 }
